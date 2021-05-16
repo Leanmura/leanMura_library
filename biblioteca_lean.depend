@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1620962222 source:e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"biblioteca_lean.h"
+	"inputs_lean.h"
+
+1620924195 e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\biblioteca_lean.h
+	"fecha.h"
+	"inputs_lean.h"
+
+1620921579 source:e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\biblioteca_lean.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca_lean.h"
+
+1620653270 e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\datawarehouse.h
+	"fecha.h"
+	"../../abmEmpleados/empleado.h"
+	"../../abmEmpleados/almuerzo.h"
+
+1620921623 e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620833486 source:e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\datawarehouse.c
+	"dataWareHouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620820216 e:\tecnicatura en programacion\programacion i\abmempleados\empleado.h
+	"sector.h"
+	"fecha.h"
+
+1620820329 e:\tecnicatura en programacion\programacion i\abmempleados\sector.h
+
+1620228001 e:\tecnicatura en programacion\programacion i\abmempleados\fecha.h
+
+1620652062 e:\tecnicatura en programacion\programacion i\abmempleados\almuerzo.h
+	"fecha.h"
+	"comida.h"
+	"empleado.h"
+
+1620648363 e:\tecnicatura en programacion\programacion i\abmempleados\comida.h
+
+1620962127 source:e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\inputs_lean.c
+	"inputs_lean.h"
+
+1620962110 e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\inputs_lean.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620921579 source:e:\tecnicatura en programacion\programacion i\librerias_lean\librerias_lean\fecha.c
+	"fecha.h"
+
